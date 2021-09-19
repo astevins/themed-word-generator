@@ -1,4 +1,4 @@
-#Themed Word Generator
+# Themed Word Generator
 ## Installation
 
 ## Functionality
